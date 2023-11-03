@@ -1,0 +1,37 @@
+Sure, here’s a simple example of an error.html file:
+
+HTML
+AI-generated code. Review and use carefully. More info on FAQ.
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Error Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .header {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .content {
+            margin: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Oops! Something went wrong.</h1>
+    </div>
+    <div class="content">
+        <h2>Error</h2>
+        <p>We're sorry, but we can't find the page you're looking for. Please check the URL and try again.</p>
+    </div>
+</body>
+</html>olk
